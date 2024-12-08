@@ -1,0 +1,7 @@
+ langchain
+openai
+requests
+flask
+python-dotenv
+flask-limiter
+
